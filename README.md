@@ -1,6 +1,6 @@
 # University-Cost-App
 
-[java-logo](https://cloud.githubusercontent.com/assets/15425071/19363998/08642d98-9195-11e6-98bd-17a08547c925.png)
+![java-logo](https://cloud.githubusercontent.com/assets/15425071/19363998/08642d98-9195-11e6-98bd-17a08547c925.png)
 
 
 ### Programming Languages :
